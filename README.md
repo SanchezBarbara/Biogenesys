@@ -63,3 +63,5 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 Visual Studio Code
 
 Jupyter Notebook
+
+Power BI
