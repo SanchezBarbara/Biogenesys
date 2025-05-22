@@ -39,6 +39,8 @@ Progreso de la vacunación por país.
 
 Identificación de zonas con infraestructura sanitaria crítica.
 
+Nivel SocioEconomico por países
+
 ### 📈 Visualizaciones
 Gráficos de líneas: evolución de contagios, muertes y vacunación.
 
